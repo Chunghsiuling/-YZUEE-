@@ -1,0 +1,8 @@
+pip3 install pandas==0.24.2
+pip3 install pytorch_lightning==1.4.9
+pip3 install pip==21.3.1
+pip3 install torchmetrics==0.4.0
+pip3 install dataclasses==0.8
+pip3 install decord==0.6.0
+cd /workdir/123/1090573/;python3 avse15.py
+
